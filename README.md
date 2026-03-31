@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-username.github.io/portfolio-website/">
+  <a href="https://AyanPrt43.github.io/portfolio-website/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Now-blue?style=for-the-badge">
   </a>
 </p>
