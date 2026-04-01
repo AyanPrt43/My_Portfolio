@@ -1,3 +1,7 @@
+html, body {
+  overflow-x: hidden;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -1197,8 +1201,31 @@ hr {
   .home-container,
   .content,
   .about-info2 {
+    display: flex;
     flex-direction: column !important;
     gap: 30px;
+  }
+
+  /* HOME IMAGE TOP */
+  .home-container img {
+    order: -1;
+    margin-bottom: 20px;
+  }
+
+  /* ABOUT IMAGE POSITION */
+  .about-text {
+    order: 2;
+  }
+
+  .photo-container {
+    order: 1;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .photo-container img {
+    width: 200px;
   }
 
   .buttons,
@@ -1232,10 +1259,6 @@ hr {
 
   .home img {
     width: 220px !important;
-  }
-
-  .photo-container img {
-    width: 200px;
   }
 
   .projects-container,
@@ -1278,19 +1301,4 @@ hr {
   }
 }
 
-/* ===== MOBILE IMAGE TOP FIX ===== */
 
-@media (max-width: 768px) {
-
-  .home-container {
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* IMAGE FIRST */
-  .home-container img {
-    order: -1;
-    margin-bottom: 20px;
-  }
-
-}
