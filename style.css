@@ -1277,3 +1277,20 @@ hr {
     padding: 10px;
   }
 }
+
+/* ===== MOBILE IMAGE TOP FIX ===== */
+
+@media (max-width: 768px) {
+
+  .home-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* IMAGE FIRST */
+  .home-container img {
+    order: -1;
+    margin-bottom: 20px;
+  }
+
+}
