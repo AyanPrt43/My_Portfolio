@@ -371,10 +371,6 @@ header {
   z-index: 1000;
 }
 
-/* Container */
-.header-list {
-  margin: 15px 20px;
-}
 
 /* Menu Box */
 .div-list {
@@ -1185,12 +1181,19 @@ hr {
 /* Mobile */
 @media (max-width: 768px) {
 
-  .home,
+  .home {
+    margin: 100px auto !important;
+    padding: 0 15px;
+    width: 100%;
+  }
+
   .project,
   .about,
   .services {
     margin: 100px 20px !important;
   }
+
+
 
   .ul-list {
     flex-wrap: wrap;
@@ -1308,6 +1311,58 @@ hr {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  /* Fix header spacing */
+  .header-list {
+    margin: 15px auto;
+    width: 95%;
+  }
+
+  /* Ensure main section is centered */
+  .home {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .ul-list {
+    justify-content: center;
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  /* Fix navbar spacing */
+  .ul-list {
+    padding: 10px 10px !important;
+    margin: 0 auto !important;
+  }
+
+  /* Force full width layout */
+  .home {
+    width: 100%;
+    max-width: 100%;
+    margin: 100px auto !important;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .ul-list {
+    padding: 10px 12px !important;
+    width: 100%;
+    justify-content: center;
   }
 
 }
