@@ -1,0 +1,4 @@
+{"timestamp":"00:00:01.104","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:06.169","source":"Browser","level":"WARN","message":"Image with src \"/images/hero_3d.jpg\" has \"fill\" and parent element with invalid \"position\". Provided \"static\" should be one of absolute,fixed,relative."}
+{"timestamp":"00:00:06.174","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/hero_3d.jpg\\\" has \\\"fill\\\" and parent element with invalid \\\"position\\\". Provided \\\"static\\\" should be one of absolute,fixed,relative.\\u001b[39m\""}
+{"timestamp":"00:00:15.885","source":"Server","level":"LOG","message":"✓ Compiled in 45ms"}

@@ -62,6 +62,7 @@ export default function AISection() {
       
       <div className="mobile-w-full" style={{ flex: '2', display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
         <form 
+          className="ai-search-form"
           onSubmit={(e) => { e.preventDefault(); handleSubmit(query); }}
           style={{ 
             display: 'flex', 
@@ -73,8 +74,9 @@ export default function AISection() {
             boxShadow: '0 2px 10px rgba(0,0,0,0.02)'
           }}
         >
-          <span style={{ color: '#0066FF', fontSize: '1.2rem', marginRight: '1rem' }}>✨</span>
+          <span className="ai-search-icon" style={{ color: '#0066FF', fontSize: '1.2rem', marginRight: '1rem', flexShrink: 0 }}>✨</span>
           <input 
+            className="ai-search-input"
             type="text" 
             placeholder="Ask a question about my work..." 
             value={query}
@@ -82,22 +84,26 @@ export default function AISection() {
             disabled={isLoading}
             style={{ 
               flex: '1', 
+              minWidth: 0,
               border: 'none', 
               outline: 'none', 
               fontSize: '1rem',
               color: 'var(--text-color)',
               background: 'transparent',
-              opacity: isLoading ? 0.5 : 1
+              opacity: isLoading ? 0.5 : 1,
+              textOverflow: 'ellipsis'
             }}
           />
           <button 
+            className="ai-search-btn"
             type="submit"
             disabled={isLoading || !query.trim()}
             style={{ 
               backgroundColor: 'var(--text-color)', 
               color: 'var(--bg-color)', 
               width: '40px', 
-              height: '40px', 
+              height: '40px',
+              flexShrink: 0,
               borderRadius: '50%',
               display: 'flex',
               alignItems: 'center',
@@ -116,6 +122,20 @@ export default function AISection() {
         
         <style>{`
           @keyframes spin { to { transform: rotate(360deg); } }
+          @media (max-width: 768px) {
+            .ai-search-form {
+              padding: 0.5rem 0.5rem 0.5rem 1rem !important;
+            }
+            .ai-search-icon {
+              margin-right: 0.5rem !important;
+            }
+            .ai-search-input {
+              font-size: 0.85rem !important;
+            }
+            .ai-search-btn {
+              margin-left: 0.5rem !important;
+            }
+          }
         `}</style>
         
         {!response && !error && (
