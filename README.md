@@ -1,86 +1,36 @@
-<h1 align="center">💼 Personal Portfolio Website</h1>
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-<p align="center">
-  🚀 A modern, responsive portfolio showcasing my skills, projects, and resume
-</p>
+## Getting Started
 
-<p align="center">
-  <a href="https://ayanprt43.github.io/My_Portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Now-blue?style=for-the-badge">
-  </a>
-</p>
-
----
-
-## ✨ About This Project
-
-This is my personal portfolio website designed to present my work, skills, and achievements in a clean and interactive way.
-It includes smooth animations, responsive layout, and a user-friendly interface.
-
----
-
-## 🚀 Features
-
-✔️ Modern UI Design
-✔️ Smooth Animations & Scroll Effects
-✔️ Responsive for All Devices 📱
-✔️ Resume Download Option 📄
-✔️ Project Showcase Section
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-</p>
-
----
-
-## 📂 Project Structure
+First, run the development server:
 
 ```bash
-📁 portfolio-website
- ┣ 📂 images
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┗ 📜 resume.pdf
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
----
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📸 Screenshots
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-<img width="1876" height="878" alt="image" src="https://github.com/user-attachments/assets/1cb63860-9d43-432c-afd0-b33992de791a" /> <br>
-<img width="1875" height="885" alt="image" src="https://github.com/user-attachments/assets/93f35359-58ba-4536-adaa-397f573d4e89" /> <br>
-<img width="1874" height="889" alt="image" src="https://github.com/user-attachments/assets/6ab51896-695b-4810-b8b2-e8f4de704d36" /> <br>
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 🎯 Future Improvements
+## Deploy on Vercel
 
-* 🔐 Add authentication (Firebase)
-* 💳 Add contact form with backend
-* 🌙 Dark mode toggle
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
----
-
-## 👨‍💻 Author
-
-Ayan Pratap
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
----
-
-<p align="center">Made with ❤️ by Ayan Pratap</p>
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
