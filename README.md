@@ -170,7 +170,7 @@ He works across the modern JavaScript ecosystem and enjoys turning product ideas
 
 - **GitHub:** https://github.com/AyanPrt43
 - **Portfolio:** https://my-portfolio-ayan-298e.vercel.app/
-- **LinkedIn:** Add your LinkedIn profile here
+- **LinkedIn:** https://www.linkedin.com/in/ayan-pratap/
 
 ## 📄 License
 
