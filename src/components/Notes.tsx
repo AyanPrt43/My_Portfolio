@@ -1,3 +1,9 @@
+const articles = [
+  { title: "The illusion of speed in modern UI", date: "Oct 12, 2026", category: "Design" },
+  { title: "Designing for AI agents: A new paradigm", date: "Sep 28, 2026", category: "AI & Tech" },
+  { title: "Why minimal design is harder than it looks", date: "Aug 15, 2026", category: "Process" }
+];
+
 export default function Notes() {
   return (
     <section id="notes" className="animate-fade-in delay-300" style={{ marginBottom: '8rem', paddingTop: '4rem' }}>
@@ -5,11 +11,7 @@ export default function Notes() {
       <h2 className="text-5xl mb-12">Writing on design and tech.</h2>
       
       <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
-        {[
-          { title: "The illusion of speed in modern UI", date: "Oct 12, 2026", category: "Design" },
-          { title: "Designing for AI agents: A new paradigm", date: "Sep 28, 2026", category: "AI & Tech" },
-          { title: "Why minimal design is harder than it looks", date: "Aug 15, 2026", category: "Process" }
-        ].map((note, idx) => (
+        {articles.map((note, idx) => (
           <div key={idx} className="group" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingBottom: '2rem', borderBottom: '1px solid var(--border-color)', cursor: 'pointer' }}>
             <div>
               <div style={{ display: 'flex', gap: '1rem', alignItems: 'center', marginBottom: '0.5rem' }}>

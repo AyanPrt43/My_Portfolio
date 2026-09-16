@@ -1,9 +1,9 @@
 import ProjectCard from './ProjectCard';
 
-const PROJECTS = [
+const projects = [
   {
     title: 'Task-Line',
-    description: 'A modern full-stack task management platform with complete workflows, date-based planning, and Firebase ID-token authentication.',
+    description: 'A task management app that helps you organize your work with clear workflows and date-based planning.',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Firebase'],
     imageSrc: '/images/task-line.png',
     githubLink: 'https://github.com/AyanPrt43/Task-Line',
@@ -11,7 +11,7 @@ const PROJECTS = [
   },
   {
     title: 'TaskFlow',
-    description: 'Full-stack project tracking platform with role-based access control, nested subtasks, and real-time status workflows.',
+    description: 'A project tracking tool with nested subtasks and real-time status updates.',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT'],
     imageSrc: '/images/Flow Manager.png',
     githubLink: 'https://github.com/AyanPrt43/TaskFlow.git',
@@ -19,7 +19,7 @@ const PROJECTS = [
   },
   {
     title: 'E-Commerce Web Application',
-    description: 'Full-stack storefront featuring dynamic SSR, multi-criteria filtering, and persistent cart state.',
+    description: 'An e-commerce storefront with multi-criteria filtering and a persistent shopping cart.',
     tags: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Node.js'],
     imageSrc: '/images/e-commerce.png',
     githubLink: 'https://github.com/AyanPrt43/e-commerce-website',
@@ -27,7 +27,7 @@ const PROJECTS = [
   },
   {
     title: 'Real-Time Currency Converter',
-    description: 'Live valuation updates across 150+ global currencies with real-time two-way rate conversion and state caching.',
+    description: 'A live currency converter that supports over 150 global currencies with real-time exchange rates.',
     tags: ['React.js', 'Vite', 'Tailwind CSS', 'REST API'],
     imageSrc: '/images/Currency Convertor.png',
     githubLink: 'https://github.com/AyanPrt43/Currency_Convertor.git',
@@ -35,10 +35,10 @@ const PROJECTS = [
   },
   {
     title: 'Fintech Experience (Razorpay Clone)',
-    description: 'Modern fintech dashboard and payments showcase with complex grid layouts and interactive micro-interactions.',
+    description: 'A visually appealing fintech dashboard with smooth layouts and interactive elements.',
     tags: ['React.js', 'Tailwind CSS', 'Responsive UI'],
     imageSrc: '/images/razorpay-clone.png',
-    githubLink: 'https://github.com/AyanPrt43', // Fallback link
+    githubLink: 'https://github.com/AyanPrt43',
     liveLink: 'https://razorpay-clone-pi-self.vercel.app/'
   }
 ];
@@ -61,7 +61,7 @@ export default function ProjectGallery() {
         gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', 
         gap: '3rem 2rem' 
       }}>
-        {PROJECTS.map((project, index) => (
+        {projects.map((project, index) => (
           <ProjectCard key={index} {...project} />
         ))}
       </div>

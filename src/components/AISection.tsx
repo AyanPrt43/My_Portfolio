@@ -2,11 +2,11 @@
 
 import { useState } from 'react';
 
-const SUGGESTIONS = [
-  "Summarise Ayan's development process",
-  "Which tools does he use?",
-  "Show me relevant projects for a fintech idea",
-  "What inspires his work?"
+const suggestions = [
+  "What's your development process like?",
+  "What tools and technologies do you use?",
+  "Do you have any projects related to fintech?",
+  "What inspires your work?"
 ];
 
 export default function AISection() {
@@ -140,7 +140,7 @@ export default function AISection() {
         
         {!response && !error && (
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.75rem' }}>
-            {SUGGESTIONS.map((suggestion, index) => (
+            {suggestions.map((suggestion, index) => (
               <button 
                 key={index}
                 onClick={() => {

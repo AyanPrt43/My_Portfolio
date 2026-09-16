@@ -179,7 +179,7 @@ function About() {
                             style: {
                                 lineHeight: '1.3'
                             },
-                            children: "I engineer digital experiences that are robust, secure, and user-focused."
+                            children: "I build digital experiences that are secure, reliable, and a joy to use."
                         }, void 0, false, {
                             fileName: "[project]/src/components/About.tsx",
                             lineNumber: 10,
@@ -195,14 +195,14 @@ function About() {
                             },
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "Hi, I'm Ayan Pratap. I'm a Full Stack Developer specializing in the MERN stack and Next.js. My work focuses on architecting secure, token-authenticated RESTful APIs, designing scalable database schemas, and crafting responsive frontends that prioritize fast page loads and seamless state management."
+                                    children: "Hi, I'm Ayan Pratap! I'm a Full Stack Developer who loves working with the MERN stack and Next.js. I spend most of my time figuring out how to make APIs more secure, designing databases that can grow, and building smooth, fast frontends that users actually enjoy interacting with."
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/About.tsx",
                                     lineNumber: 14,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "Whether I'm optimizing database queries or fine-tuning micro-interactions in the UI, I believe technology should be an invisible enabler—amplifying human potential through scalable and beautifully designed applications."
+                                    children: "Whether I'm digging into database queries or tweaking the smallest UI details, my goal is always the same: to build technology that simply works, helping people do more without getting in their way."
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/About.tsx",
                                     lineNumber: 19,
@@ -237,7 +237,7 @@ function About() {
                                     children: "Experience"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/About.tsx",
-                                    lineNumber: 29,
+                                    lineNumber: 30,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -247,7 +247,7 @@ function About() {
                                             children: "Intellipaat"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/About.tsx",
-                                            lineNumber: 31,
+                                            lineNumber: 32,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -255,7 +255,7 @@ function About() {
                                             children: "Web Development Intern"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/About.tsx",
-                                            lineNumber: 32,
+                                            lineNumber: 33,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -263,19 +263,19 @@ function About() {
                                             children: "2025 — 2026"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/About.tsx",
-                                            lineNumber: 33,
+                                            lineNumber: 34,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/About.tsx",
-                                    lineNumber: 30,
+                                    lineNumber: 31,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/About.tsx",
-                            lineNumber: 28,
+                            lineNumber: 29,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -285,7 +285,7 @@ function About() {
                                     children: "Education"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/About.tsx",
-                                    lineNumber: 38,
+                                    lineNumber: 39,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -298,7 +298,7 @@ function About() {
                                             children: "Feroze Gandhi Institute of Engineering & Technology"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/About.tsx",
-                                            lineNumber: 40,
+                                            lineNumber: 41,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -306,7 +306,7 @@ function About() {
                                             children: "B.Tech Computer Science (CGPA: 7.6/10)"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/About.tsx",
-                                            lineNumber: 41,
+                                            lineNumber: 42,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -314,19 +314,19 @@ function About() {
                                             children: "2022 — 2026"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/About.tsx",
-                                            lineNumber: 42,
+                                            lineNumber: 43,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/About.tsx",
-                                    lineNumber: 39,
+                                    lineNumber: 40,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/About.tsx",
-                            lineNumber: 37,
+                            lineNumber: 38,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -336,7 +336,7 @@ function About() {
                                     children: "Core Technologies"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/About.tsx",
-                                    lineNumber: 47,
+                                    lineNumber: 48,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -347,19 +347,19 @@ function About() {
                                     children: "JavaScript (ES6+) • TypeScript • React.js • Next.js • Node.js • Express.js • MongoDB • PostgreSQL • Tailwind CSS • Firebase • REST APIs"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/About.tsx",
-                                    lineNumber: 48,
+                                    lineNumber: 49,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/About.tsx",
-                            lineNumber: 46,
+                            lineNumber: 47,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/About.tsx",
-                    lineNumber: 26,
+                    lineNumber: 27,
                     columnNumber: 9
                 }, this)
             ]
@@ -470,7 +470,7 @@ function Hero() {
                             maxWidth: '480px',
                             lineHeight: '1.6'
                         },
-                        children: "I explore the space where design, technology, and engineering meet — building fast, reliable, and user-focused web applications for a more connected tomorrow."
+                        children: "I enjoy bringing ideas to life in the browser, mixing good design with solid engineering to build web apps that are fast, reliable, and easy to use."
                     }, void 0, false, {
                         fileName: "[project]/src/components/Hero.tsx",
                         lineNumber: 15,
@@ -706,6 +706,23 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 ;
+const articles = [
+    {
+        title: "The illusion of speed in modern UI",
+        date: "Oct 12, 2026",
+        category: "Design"
+    },
+    {
+        title: "Designing for AI agents: A new paradigm",
+        date: "Sep 28, 2026",
+        category: "AI & Tech"
+    },
+    {
+        title: "Why minimal design is harder than it looks",
+        date: "Aug 15, 2026",
+        category: "Process"
+    }
+];
 function Notes() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         id: "notes",
@@ -720,7 +737,7 @@ function Notes() {
                 children: "Notes & Thoughts"
             }, void 0, false, {
                 fileName: "[project]/src/components/Notes.tsx",
-                lineNumber: 4,
+                lineNumber: 10,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -728,7 +745,7 @@ function Notes() {
                 children: "Writing on design and tech."
             }, void 0, false, {
                 fileName: "[project]/src/components/Notes.tsx",
-                lineNumber: 5,
+                lineNumber: 11,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -737,23 +754,7 @@ function Notes() {
                     flexDirection: 'column',
                     gap: '2rem'
                 },
-                children: [
-                    {
-                        title: "The illusion of speed in modern UI",
-                        date: "Oct 12, 2026",
-                        category: "Design"
-                    },
-                    {
-                        title: "Designing for AI agents: A new paradigm",
-                        date: "Sep 28, 2026",
-                        category: "AI & Tech"
-                    },
-                    {
-                        title: "Why minimal design is harder than it looks",
-                        date: "Aug 15, 2026",
-                        category: "Process"
-                    }
-                ].map((note, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                children: articles.map((note, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "group",
                         style: {
                             display: 'flex',
@@ -779,7 +780,7 @@ function Notes() {
                                                 children: note.date
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Notes.tsx",
-                                                lineNumber: 16,
+                                                lineNumber: 18,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -792,13 +793,13 @@ function Notes() {
                                                 children: note.category
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Notes.tsx",
-                                                lineNumber: 17,
+                                                lineNumber: 19,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Notes.tsx",
-                                        lineNumber: 15,
+                                        lineNumber: 17,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -806,13 +807,13 @@ function Notes() {
                                         children: note.title
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Notes.tsx",
-                                        lineNumber: 19,
+                                        lineNumber: 21,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Notes.tsx",
-                                lineNumber: 14,
+                                lineNumber: 16,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -824,24 +825,24 @@ function Notes() {
                                 children: "→"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Notes.tsx",
-                                lineNumber: 21,
+                                lineNumber: 23,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, idx, true, {
                         fileName: "[project]/src/components/Notes.tsx",
-                        lineNumber: 13,
+                        lineNumber: 15,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/components/Notes.tsx",
-                lineNumber: 7,
+                lineNumber: 13,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/Notes.tsx",
-        lineNumber: 3,
+        lineNumber: 9,
         columnNumber: 5
     }, this);
 }
@@ -893,10 +894,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ProjectCard$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ProjectCard.tsx [app-rsc] (ecmascript)");
 ;
 ;
-const PROJECTS = [
+const projects = [
     {
         title: 'Task-Line',
-        description: 'A modern full-stack task management platform with complete workflows, date-based planning, and Firebase ID-token authentication.',
+        description: 'A task management app that helps you organize your work with clear workflows and date-based planning.',
         tags: [
             'React.js',
             'Node.js',
@@ -910,7 +911,7 @@ const PROJECTS = [
     },
     {
         title: 'TaskFlow',
-        description: 'Full-stack project tracking platform with role-based access control, nested subtasks, and real-time status workflows.',
+        description: 'A project tracking tool with nested subtasks and real-time status updates.',
         tags: [
             'React.js',
             'Node.js',
@@ -924,7 +925,7 @@ const PROJECTS = [
     },
     {
         title: 'E-Commerce Web Application',
-        description: 'Full-stack storefront featuring dynamic SSR, multi-criteria filtering, and persistent cart state.',
+        description: 'An e-commerce storefront with multi-criteria filtering and a persistent shopping cart.',
         tags: [
             'Next.js',
             'TypeScript',
@@ -937,7 +938,7 @@ const PROJECTS = [
     },
     {
         title: 'Real-Time Currency Converter',
-        description: 'Live valuation updates across 150+ global currencies with real-time two-way rate conversion and state caching.',
+        description: 'A live currency converter that supports over 150 global currencies with real-time exchange rates.',
         tags: [
             'React.js',
             'Vite',
@@ -950,7 +951,7 @@ const PROJECTS = [
     },
     {
         title: 'Fintech Experience (Razorpay Clone)',
-        description: 'Modern fintech dashboard and payments showcase with complex grid layouts and interactive micro-interactions.',
+        description: 'A visually appealing fintech dashboard with smooth layouts and interactive elements.',
         tags: [
             'React.js',
             'Tailwind CSS',
@@ -1037,7 +1038,7 @@ function ProjectGallery() {
                     gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))',
                     gap: '3rem 2rem'
                 },
-                children: PROJECTS.map((project, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ProjectCard$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                children: projects.map((project, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ProjectCard$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                         ...project
                     }, index, false, {
                         fileName: "[project]/src/components/ProjectGallery.tsx",

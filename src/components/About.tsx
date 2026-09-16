@@ -8,16 +8,17 @@ export default function About() {
         <div className="mobile-w-full" style={{ flex: '1', minWidth: '300px', maxWidth: '600px' }}>
           <p className="text-xs text-secondary tracking-widest uppercase font-semibold mb-6">About Me</p>
           <h2 className="text-4xl mb-8" style={{ lineHeight: '1.3' }}>
-            I engineer digital experiences that are robust, secure, and user-focused.
+            I build digital experiences that are secure, reliable, and a joy to use.
           </h2>
           <div className="text-lg text-secondary" style={{ lineHeight: '1.8', display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
             <p>
-              Hi, I'm Ayan Pratap. I'm a Full Stack Developer specializing in the MERN stack and Next.js. 
-              My work focuses on architecting secure, token-authenticated RESTful APIs, designing scalable database schemas, 
-              and crafting responsive frontends that prioritize fast page loads and seamless state management.
+              Hi, I'm Ayan Pratap! I'm a Full Stack Developer who loves working with the MERN stack and Next.js. 
+              I spend most of my time figuring out how to make APIs more secure, designing databases that can grow, 
+              and building smooth, fast frontends that users actually enjoy interacting with.
             </p>
             <p>
-              Whether I'm optimizing database queries or fine-tuning micro-interactions in the UI, I believe technology should be an invisible enabler—amplifying human potential through scalable and beautifully designed applications.
+              Whether I'm digging into database queries or tweaking the smallest UI details, my goal is always the same: 
+              to build technology that simply works, helping people do more without getting in their way.
             </p>
           </div>
         </div>

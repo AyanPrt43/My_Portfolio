@@ -13,7 +13,7 @@ export default function Hero() {
         </h1>
         
         <p className="text-lg text-secondary mb-8" style={{ maxWidth: '480px', lineHeight: '1.6' }}>
-          I explore the space where design, technology, and engineering meet — building fast, reliable, and user-focused web applications for a more connected tomorrow.
+          I enjoy bringing ideas to life in the browser, mixing good design with solid engineering to build web apps that are fast, reliable, and easy to use.
         </p>
         
         <a 

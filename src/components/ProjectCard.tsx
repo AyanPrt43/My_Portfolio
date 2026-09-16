@@ -140,7 +140,6 @@ export default function ProjectCard({ title, description, tags, imageSrc, github
         </div>
       </div>
 
-      {/* Hover Modal Overlay - rendered via Portal to escape CSS transform contexts */}
       {isModalOpen && liveLink && mounted && createPortal(
         <div 
           style={{
@@ -182,7 +181,6 @@ export default function ProjectCard({ title, description, tags, imageSrc, github
             }}
             onClick={(e) => e.stopPropagation()}
           >
-            {/* Modal Header */}
             <div style={{ 
               padding: '1rem 1.5rem', 
               display: 'flex', 
@@ -229,7 +227,6 @@ export default function ProjectCard({ title, description, tags, imageSrc, github
               </div>
             </div>
             
-            {/* Modal Content / Iframe */}
             <div style={{ flex: 1, position: 'relative', backgroundColor: '#fff' }}>
               <iframe 
                 src={liveLink} 

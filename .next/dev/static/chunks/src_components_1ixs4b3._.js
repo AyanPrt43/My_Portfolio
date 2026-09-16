@@ -12,11 +12,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var _s = __turbopack_context__.k.signature();
 'use client';
 ;
-const SUGGESTIONS = [
-    "Summarise Ayan's development process",
-    "Which tools does he use?",
-    "Show me relevant projects for a fintech idea",
-    "What inspires his work?"
+const suggestions = [
+    "What's your development process like?",
+    "What tools and technologies do you use?",
+    "Do you have any projects related to fintech?",
+    "What inspires your work?"
 ];
 function AISection() {
     _s();
@@ -230,7 +230,7 @@ function AISection() {
                             flexWrap: 'wrap',
                             gap: '0.75rem'
                         },
-                        children: SUGGESTIONS.map((suggestion, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                        children: suggestions.map((suggestion, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>{
                                     setQuery(suggestion);
                                     handleSubmit(suggestion);
@@ -336,11 +336,11 @@ var _s = __turbopack_context__.k.signature();
 function Contact() {
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(48);
-    if ($[0] !== "161bad424929efbf11dd531cf18e6d37f360becda556ed509aa59e0b7650b507") {
+    if ($[0] !== "a12eb83af52973f3b9e6c819f4524314750482804922da8b4f1bed6cfb3c42f4") {
         for(let $i = 0; $i < 48; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "161bad424929efbf11dd531cf18e6d37f360becda556ed509aa59e0b7650b507";
+        $[0] = "a12eb83af52973f3b9e6c819f4524314750482804922da8b4f1bed6cfb3c42f4";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -423,7 +423,7 @@ function Contact() {
         };
         t6 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
             className: "text-5xl mb-4",
-            children: "Let's talk."
+            children: "Got an idea? Let's chat."
         }, void 0, false, {
             fileName: "[project]/src/components/Contact.tsx",
             lineNumber: 92,
@@ -444,7 +444,7 @@ function Contact() {
             style: {
                 lineHeight: "1.6"
             },
-            children: "I'm always open to discussing product design work or partnership opportunities."
+            children: "Whether you have a project in mind, need some help with your current stack, or just want to say hi, my inbox is always open. Drop me a message and I'll get back to you!"
         }, void 0, false, {
             fileName: "[project]/src/components/Contact.tsx",
             lineNumber: 103,
@@ -1126,11 +1126,11 @@ var _s = __turbopack_context__.k.signature();
 function ProjectCard(t0) {
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(56);
-    if ($[0] !== "28a24e9723b474463928f2844e2fc81e7e2777b4eb78015ead8950c7814f0888") {
+    if ($[0] !== "22d224119e8787ae01f1a01c6b768599641c32b2d01dfda4ef11123e60fac3a6") {
         for(let $i = 0; $i < 56; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "28a24e9723b474463928f2844e2fc81e7e2777b4eb78015ead8950c7814f0888";
+        $[0] = "22d224119e8787ae01f1a01c6b768599641c32b2d01dfda4ef11123e60fac3a6";
     }
     const { title, description, tags, imageSrc, githubLink, liveLink } = t0;
     const [isModalOpen, setIsModalOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
