@@ -14,17 +14,6 @@
 
 </div>
 
-
-<div align="center">
-
-### Full Stack Developer • MERN • Next.js • TypeScript • AI
-
-<a href="https://my-portfolio-ayan-298e.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20WEBSITE-Visit%20Portfolio-000000?style=for-the-badge" alt="Live Website" />
-</a>
-
-</div>
-
 A modern, responsive developer portfolio built with **Next.js, React, TypeScript, and AI**. The site presents Ayan's background, technical skills, selected projects, notes, and an interactive AI assistant that can answer visitor questions about his work.
 
 ## ✨ Highlights
