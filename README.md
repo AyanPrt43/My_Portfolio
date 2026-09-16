@@ -1,5 +1,15 @@
 # Ayan Pratap Sonker — Developer Portfolio
 
+<div align="center">
+
+### Full Stack Developer • MERN • Next.js • TypeScript • AI
+
+<a href="https://my-portfolio-ayan-298e.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20WEBSITE-Visit%20Portfolio-000000?style=for-the-badge" alt="Live Website" />
+</a>
+
+</div>
+
 A modern, responsive developer portfolio built with **Next.js, React, TypeScript, and AI**. The site presents Ayan's background, technical skills, selected projects, notes, and an interactive AI assistant that can answer visitor questions about his work.
 
 ## ✨ Highlights
@@ -136,9 +146,19 @@ A responsive fintech-focused interface inspired by modern payment-product experi
 
 **Stack:** React.js, Tailwind CSS, Responsive UI
 
-## 🌐 Live Portfolio
+## 🌐 Live Website
 
-Add the production portfolio URL here once the final deployment URL is confirmed.
+<div align="center">
+
+<a href="https://my-portfolio-ayan-298e.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-My%20Portfolio-111827?style=for-the-badge" alt="Visit My Portfolio" />
+</a>
+
+<br />
+
+**Live:** https://my-portfolio-ayan-298e.vercel.app/
+
+</div>
 
 ## 📌 Current Focus
 
@@ -158,7 +178,7 @@ He works across the modern JavaScript ecosystem and enjoys turning product ideas
 ## 📫 Connect
 
 - **GitHub:** https://github.com/AyanPrt43
-- **Portfolio:** Add the production URL here
+- **Portfolio:** https://my-portfolio-ayan-298e.vercel.app/
 - **LinkedIn:** Add your LinkedIn profile here
 
 ## 📄 License
